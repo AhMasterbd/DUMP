@@ -16,7 +16,12 @@ pkg install git
 
 rm -rf DUMP
 
-gitclone https://github.com/MASTER-404/DUMP
+git ![Uploading Screenshot_20230709_173013.jpg…]()
+
+
+Uploading Screenrecording_20230709_192001.mp4…
+
+clone https://github.com/MASTER-404/DUMP
 
 cd DUMP
 
